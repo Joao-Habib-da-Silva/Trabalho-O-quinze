@@ -1,4 +1,4 @@
 const centro = window.document.getElementById("centro")
-window.onload = function() {
-    
-}
+window.addEventListener("DOMContentLoaded", function() {
+    centro.classList.add("feito")
+})
