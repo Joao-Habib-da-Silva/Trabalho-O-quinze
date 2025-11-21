@@ -12,3 +12,5 @@ fora.addEventListener("click", function() {
     const header = window.document.getElementById("header");
     header.classList.toggle("ativado");  
 });
+const button_first = window.document.getElementById("button-2025")
+const button_second = window.document.getElementById("button-1980")
